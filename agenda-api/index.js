@@ -61,5 +61,5 @@ app.delete('/contactos/:id', (req, res) => {
   res.json({ mensaje: 'Contacto eliminado' });
 });
 
-const PORT = 3000;
+const PORT = 3001;
 app.listen(PORT, () => console.log(`\n🚀 API lista en http://localhost:${PORT}\n`));

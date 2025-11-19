@@ -7,11 +7,11 @@ Esta es la tarea de:
 
 Esta es la captura de la web consumiendo la api: 
 
-![Captura de la Agenda consumiendo la api](./App_Prueba/agenda-react-full/imagenes/Consumiendo_laApi.png)
+![Captura de la Agenda consumiendo la api](./imagenes/Consumiendo_laApi.png)
 
 Esta es la captura de la Api:
 
-![Captura de la Agenda consumiendo la api](./App_Prueba/agenda-react-full/imagenes/Api.png)
+![Captura de la Agenda consumiendo la api](./imagenes/Api.png)
 
 =================
 
